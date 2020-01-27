@@ -20,5 +20,5 @@ body {
 /* Write all remaining styles here */
 
 h1, h2 {
-	text-align: center;
+	margin: auto;
 }
